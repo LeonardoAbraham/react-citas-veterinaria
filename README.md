@@ -11,10 +11,10 @@ https://react-leonardo-citas-veterinaria.netlify.app/
 
 ## Como ejecutar el proyecto
 ```
-yarn install
+npm install
 ```
 ```
-yarn run dev
+npm run dev
 ```
 
 ## Imagenes del proyecto
